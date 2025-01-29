@@ -9,7 +9,7 @@ Original file is located at
 Install Dependencies
 """
 
-pip install pandas numpy scikit-learn matplotlib seaborn streamlit statsmodels
+!pip install pandas numpy scikit-learn matplotlib seaborn streamlit statsmodels
 
 import pandas as pd
 import numpy as np
