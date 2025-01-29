@@ -1,0 +1,1096 @@
+Date,Amount,Description,Category
+2023-12-29,12215.04,Gym Membership,Health
+2023-02-18,1907.94,Credit Card EMI,Loans
+2023-10-24,698.69,Water Bill,Utilities
+2023-12-17,14651.54,Uber Ride,Transport
+2023-12-27,43602.72,Monthly Rent Payment,Rent
+2023-04-06,3717.94,Train Ticket,Transport
+2023-03-23,16504.67,Gaming Subscription,Entertainment
+2023-08-28,20782.12,Fuel,Transport
+2023-12-01,36706.12,Uber Ride,Transport
+2023-07-23,9820.0,Train Ticket,Transport
+2023-06-11,29258.56,Monthly Rent Payment,Rent
+2023-05-08,46989.53,Hotel Booking,Travel
+2023-12-13,9729.54,Uber Ride,Transport
+2023-11-10,28914.64,Pharmacy,Health
+2023-09-27,5315.09,Electronics,Shopping
+2023-02-14,42771.01,Hotel Booking,Travel
+2023-03-30,5223.94,Train Ticket,Transport
+2023-09-19,10488.66,Fast Food,Food
+2023-07-07,34986.88,Mall Purchase,Shopping
+2023-11-08,13708.42,Hotel Booking,Travel
+2023-06-26,10635.12,Internet Bill,Utilities
+2023-05-05,28491.49,Fuel,Transport
+2023-07-25,17256.2,Online Shopping,Shopping
+2023-05-21,9745.87,Gym Membership,Health
+2023-05-13,25722.61,Electronics,Shopping
+2023-05-30,27257.28,Movie Tickets,Entertainment
+2023-05-28,27327.07,Restaurant,Food
+2023-11-30,17510.15,Car Rental,Travel
+2023-02-13,40467.07,Train Ticket,Transport
+2023-11-07,24877.6,Grocery Store,Groceries
+2023-03-03,10427.34,Car Rental,Travel
+2023-10-31,36990.58,Coffee Shop,Food
+2023-11-06,24809.16,Electricity Bill,Utilities
+2023-12-16,27287.49,Mall Purchase,Shopping
+2023-03-16,4253.19,Monthly Rent Payment,Rent
+2023-09-17,11177.98,Credit Card EMI,Loans
+2023-03-23,33238.02,Pharmacy,Health
+2023-10-13,42623.68,Restaurant,Food
+2023-06-03,49715.18,Fast Food,Food
+2023-09-22,27165.4,Hotel Booking,Travel
+2023-03-24,24631.64,Electricity Bill,Utilities
+2023-03-18,37147.09,Hotel Booking,Travel
+2023-07-31,12763.84,Doctor Visit,Health
+2023-10-18,33127.92,Coffee Shop,Food
+2023-08-09,29374.46,Coffee Shop,Food
+2023-08-15,20843.79,Organic Market,Groceries
+2023-09-09,23035.93,Movie Tickets,Entertainment
+2023-11-19,41984.86,Uber Ride,Transport
+2023-04-21,27030.3,Electricity Bill,Utilities
+2023-08-02,21199.87,Grocery Store,Groceries
+2023-12-07,15556.8,Restaurant,Food
+2023-02-12,41576.97,Gym Membership,Health
+2023-07-21,16012.27,Pharmacy,Health
+2023-12-18,35963.88,Organic Market,Groceries
+2023-06-18,19998.99,Flight Ticket,Travel
+2023-12-04,44023.9,Online Shopping,Shopping
+2023-04-06,3617.76,Restaurant,Food
+2023-10-08,32651.05,Monthly Rent Payment,Rent
+2023-11-25,46794.11,Doctor Visit,Health
+2023-11-06,13231.16,Concert,Entertainment
+2023-10-29,34251.32,Electronics,Shopping
+2023-04-04,37334.34,Movie Tickets,Entertainment
+2023-02-12,11663.54,Monthly Rent Payment,Rent
+2023-04-23,37643.52,Gym Membership,Health
+2023-05-16,32426.31,Uber Ride,Transport
+2023-12-07,4480.38,Gaming Subscription,Entertainment
+2023-08-05,41800.99,Flight Ticket,Travel
+2023-02-02,48276.67,Electronics,Shopping
+2023-03-11,40161.82,Uber Ride,Transport
+2023-12-04,2129.15,Water Bill,Utilities
+2023-01-04,46713.59,Monthly Rent Payment,Rent
+2023-09-28,20824.02,Organic Market,Groceries
+2023-03-04,26085.59,Doctor Visit,Health
+2023-11-17,48024.89,Flight Ticket,Travel
+2023-07-28,32794.72,Pharmacy,Health
+2023-07-25,36524.12,Restaurant,Food
+2023-08-20,20485.18,Coffee Shop,Food
+2023-09-27,5020.26,Supermarket,Groceries
+2023-06-07,3015.4,Pharmacy,Health
+2023-08-20,38690.92,Restaurant,Food
+2023-01-03,3163.9,Online Shopping,Shopping
+2023-09-18,47618.6,Mall Purchase,Shopping
+2023-01-18,35274.59,Restaurant,Food
+2023-01-20,12050.1,Credit Card EMI,Loans
+2023-01-25,11803.11,Gym Membership,Health
+2023-03-04,14884.08,Credit Card EMI,Loans
+2023-08-01,3831.01,Fuel,Transport
+2023-04-13,45731.61,Gym Membership,Health
+2023-04-19,1364.94,Flight Ticket,Travel
+2023-03-21,15675.94,Gaming Subscription,Entertainment
+2023-07-25,47647.14,Train Ticket,Transport
+2023-07-10,11559.34,Monthly Rent Payment,Rent
+2023-02-26,39181.42,Electricity Bill,Utilities
+2023-07-17,14071.77,Pharmacy,Health
+2023-05-26,17941.86,Flight Ticket,Travel
+2023-01-03,21668.97,Monthly Rent Payment,Rent
+2023-11-15,42969.43,Coffee Shop,Food
+2023-07-21,23730.78,Car Rental,Travel
+2023-05-26,1203.15,Fast Food,Food
+2023-02-17,11832.67,Monthly Rent Payment,Rent
+2023-08-20,19408.73,Monthly Rent Payment,Rent
+2023-08-03,15309.79,Concert,Entertainment
+2023-11-14,26511.93,Organic Market,Groceries
+2023-09-11,45837.16,Fast Food,Food
+2023-06-20,17914.62,Car Loan,Loans
+2023-08-10,44124.75,Electricity Bill,Utilities
+2023-10-24,20184.36,Internet Bill,Utilities
+2023-09-04,48839.06,Coffee Shop,Food
+2023-06-01,15233.77,Hotel Booking,Travel
+2023-02-09,31255.75,Personal Loan EMI,Loans
+2023-12-21,12823.93,Car Rental,Travel
+2023-12-18,49242.75,Uber Ride,Transport
+2023-10-05,21808.15,Online Shopping,Shopping
+2023-04-03,28949.86,Monthly Rent Payment,Rent
+2023-07-14,42610.9,Train Ticket,Transport
+2023-06-08,43462.01,Fast Food,Food
+2023-08-01,6882.57,Water Bill,Utilities
+2023-10-09,17243.09,Car Loan,Loans
+2023-01-23,29554.46,Monthly Rent Payment,Rent
+2023-02-21,18310.82,Doctor Visit,Health
+2023-12-28,18168.04,Uber Ride,Transport
+2023-08-19,33505.54,Monthly Rent Payment,Rent
+2023-08-12,28230.68,Car Rental,Travel
+2023-02-24,16750.59,Online Shopping,Shopping
+2023-08-17,21458.62,Mall Purchase,Shopping
+2023-02-16,7597.82,Electronics,Shopping
+2023-06-13,31802.92,Pharmacy,Health
+2023-12-01,11757.01,Personal Loan EMI,Loans
+2023-06-27,41726.81,Train Ticket,Transport
+2023-07-22,25319.18,Restaurant,Food
+2023-07-12,30916.51,Doctor Visit,Health
+2023-11-27,2278.88,Restaurant,Food
+2023-02-12,26479.03,Water Bill,Utilities
+2023-03-01,5542.15,Car Rental,Travel
+2023-08-22,14040.99,Electricity Bill,Utilities
+2023-01-03,39396.87,Pharmacy,Health
+2023-03-16,5659.71,Credit Card EMI,Loans
+2023-06-26,24211.93,Pharmacy,Health
+2023-07-17,45755.56,Credit Card EMI,Loans
+2023-03-10,43188.05,Flight Ticket,Travel
+2023-10-07,1398.65,Gym Membership,Health
+2023-03-22,40964.44,Pharmacy,Health
+2023-01-24,17186.7,Coffee Shop,Food
+2023-12-01,10865.33,Pharmacy,Health
+2023-05-05,4805.05,Fast Food,Food
+2023-01-20,43465.92,Credit Card EMI,Loans
+2023-02-19,45666.92,Gaming Subscription,Entertainment
+2023-06-12,7029.73,Mall Purchase,Shopping
+2023-05-16,39688.61,Fast Food,Food
+2023-09-23,49831.23,Coffee Shop,Food
+2023-11-01,8654.99,Grocery Store,Groceries
+2023-02-28,45612.13,Water Bill,Utilities
+2023-03-09,46717.74,Fast Food,Food
+2023-06-19,30327.71,Online Shopping,Shopping
+2023-05-28,32866.87,Electricity Bill,Utilities
+2023-12-02,13202.74,Restaurant,Food
+2023-02-02,11440.97,Uber Ride,Transport
+2023-08-23,27170.3,Monthly Rent Payment,Rent
+2023-03-30,10318.91,Gym Membership,Health
+2023-11-25,1061.81,Car Loan,Loans
+2023-02-15,4096.67,Train Ticket,Transport
+2023-12-21,42703.52,Uber Ride,Transport
+2023-05-07,9560.61,Electronics,Shopping
+2023-04-28,37125.84,Restaurant,Food
+2023-11-18,36810.55,Personal Loan EMI,Loans
+2023-02-23,5117.72,Personal Loan EMI,Loans
+2023-03-22,19552.78,Fast Food,Food
+2023-06-12,17611.11,Organic Market,Groceries
+2023-07-03,956.21,Electricity Bill,Utilities
+2023-03-06,6600.32,Gym Membership,Health
+2023-01-25,2768.05,Fuel,Transport
+2023-08-01,6358.77,Electricity Bill,Utilities
+2023-08-12,31805.25,Internet Bill,Utilities
+2023-01-30,34847.76,Gaming Subscription,Entertainment
+2023-10-20,32060.87,Doctor Visit,Health
+2023-11-23,25209.92,Pharmacy,Health
+2023-11-04,32667.95,Personal Loan EMI,Loans
+2023-05-04,39414.47,Restaurant,Food
+2023-05-22,21452.46,Gym Membership,Health
+2023-01-05,35225.48,Organic Market,Groceries
+2023-08-08,11752.77,Online Shopping,Shopping
+2023-03-20,23315.65,Fuel,Transport
+2023-08-26,48024.07,Coffee Shop,Food
+2023-11-25,1152.04,Credit Card EMI,Loans
+2023-01-15,24559.94,Electricity Bill,Utilities
+2023-04-26,6601.06,Train Ticket,Transport
+2023-09-11,13025.47,Personal Loan EMI,Loans
+2023-01-16,4065.34,Organic Market,Groceries
+2023-02-15,34274.71,Pharmacy,Health
+2023-05-11,40596.63,Credit Card EMI,Loans
+2023-07-23,26124.18,Fast Food,Food
+2023-04-16,16795.05,Doctor Visit,Health
+2023-06-27,16260.77,Online Shopping,Shopping
+2023-02-05,12697.7,Mall Purchase,Shopping
+2023-04-30,23096.13,Coffee Shop,Food
+2023-10-17,13054.62,Movie Tickets,Entertainment
+2023-10-08,4764.36,Car Rental,Travel
+2023-06-05,10743.83,Train Ticket,Transport
+2023-12-22,42061.84,Pharmacy,Health
+2023-08-30,32976.09,Credit Card EMI,Loans
+2023-07-27,39048.33,Pharmacy,Health
+2023-09-27,23228.49,Pharmacy,Health
+2023-07-31,37876.38,Electricity Bill,Utilities
+2023-07-13,48154.41,Internet Bill,Utilities
+2023-08-06,22677.45,Hotel Booking,Travel
+2023-03-05,22222.53,Car Rental,Travel
+2023-06-28,19102.1,Mall Purchase,Shopping
+2023-07-26,16175.15,Coffee Shop,Food
+2023-05-31,31526.33,Restaurant,Food
+2023-05-01,22180.68,Water Bill,Utilities
+2023-03-04,28363.13,Train Ticket,Transport
+2023-09-06,38810.64,Internet Bill,Utilities
+2023-12-31,17337.97,Monthly Rent Payment,Rent
+2023-08-28,44711.29,Coffee Shop,Food
+2023-11-25,9346.21,Movie Tickets,Entertainment
+2023-05-30,3731.82,Credit Card EMI,Loans
+2023-06-15,12801.3,Pharmacy,Health
+2023-10-22,33579.85,Credit Card EMI,Loans
+2023-03-11,11583.88,Monthly Rent Payment,Rent
+2023-05-18,23938.5,Monthly Rent Payment,Rent
+2023-09-23,30327.28,Concert,Entertainment
+2023-04-23,23634.34,Organic Market,Groceries
+2023-05-03,41780.2,Flight Ticket,Travel
+2023-08-15,32334.83,Coffee Shop,Food
+2023-04-18,36273.24,Organic Market,Groceries
+2023-03-02,4318.72,Fast Food,Food
+2023-09-01,15483.88,Car Rental,Travel
+2023-05-10,39421.93,Flight Ticket,Travel
+2023-04-13,27802.79,Monthly Rent Payment,Rent
+2023-12-03,32547.66,Coffee Shop,Food
+2023-01-28,43919.0,Train Ticket,Transport
+2023-02-19,38785.94,Restaurant,Food
+2023-04-18,22268.78,Internet Bill,Utilities
+2023-03-05,9240.99,Water Bill,Utilities
+2023-07-02,27029.35,Monthly Rent Payment,Rent
+2023-01-05,23012.57,Doctor Visit,Health
+2023-12-03,15920.93,Water Bill,Utilities
+2023-12-22,46789.29,Monthly Rent Payment,Rent
+2023-04-26,6214.79,Supermarket,Groceries
+2023-11-28,33233.48,Gym Membership,Health
+2023-12-21,12495.13,Doctor Visit,Health
+2023-12-17,11444.41,Restaurant,Food
+2023-02-23,14547.12,Credit Card EMI,Loans
+2023-01-02,7365.98,Gaming Subscription,Entertainment
+2023-08-09,41708.63,Water Bill,Utilities
+2023-09-09,42937.04,Pharmacy,Health
+2023-04-21,44650.18,Pharmacy,Health
+2023-05-04,22955.15,Concert,Entertainment
+2023-07-29,44350.05,Uber Ride,Transport
+2023-10-19,40649.48,Organic Market,Groceries
+2023-12-20,30154.82,Monthly Rent Payment,Rent
+2023-01-16,44649.23,Online Shopping,Shopping
+2023-08-02,4855.57,Pharmacy,Health
+2023-06-02,3458.18,Pharmacy,Health
+2023-01-01,12839.31,Personal Loan EMI,Loans
+2023-12-24,4006.71,Credit Card EMI,Loans
+2023-08-17,46601.98,Pharmacy,Health
+2023-01-28,37234.03,Monthly Rent Payment,Rent
+2023-09-24,9311.98,Grocery Store,Groceries
+2023-06-04,37130.39,Concert,Entertainment
+2023-11-25,8633.14,Hotel Booking,Travel
+2023-09-03,18516.16,Gaming Subscription,Entertainment
+2023-12-09,13727.63,Car Rental,Travel
+2023-12-18,29901.4,Water Bill,Utilities
+2023-04-23,22832.61,Fast Food,Food
+2023-12-20,36639.73,Water Bill,Utilities
+2023-10-21,39493.36,Personal Loan EMI,Loans
+2023-01-05,34622.08,Electricity Bill,Utilities
+2023-02-09,29394.98,Uber Ride,Transport
+2023-02-20,4985.55,Monthly Rent Payment,Rent
+2023-01-09,10886.41,Internet Bill,Utilities
+2023-01-31,37578.48,Credit Card EMI,Loans
+2023-03-27,28927.83,Movie Tickets,Entertainment
+2023-08-03,19351.28,Fuel,Transport
+2023-12-21,28991.07,Flight Ticket,Travel
+2023-11-03,35198.8,Fuel,Transport
+2023-08-15,16149.48,Restaurant,Food
+2023-08-30,7906.78,Coffee Shop,Food
+2023-09-24,30346.66,Online Shopping,Shopping
+2023-11-14,42753.27,Concert,Entertainment
+2023-07-18,39179.47,Fuel,Transport
+2023-06-14,12555.59,Movie Tickets,Entertainment
+2023-09-25,27697.89,Pharmacy,Health
+2023-11-11,34368.97,Credit Card EMI,Loans
+2023-02-13,41957.24,Concert,Entertainment
+2023-10-26,10792.13,Online Shopping,Shopping
+2023-11-10,40104.18,Monthly Rent Payment,Rent
+2023-05-01,36903.26,Organic Market,Groceries
+2023-05-26,5037.32,Car Loan,Loans
+2023-05-01,7647.49,Electricity Bill,Utilities
+2023-02-17,43479.0,Uber Ride,Transport
+2023-11-15,17695.35,Coffee Shop,Food
+2023-11-09,44005.04,Water Bill,Utilities
+2023-09-09,24309.0,Train Ticket,Transport
+2023-03-13,18787.79,Car Rental,Travel
+2023-12-24,46453.27,Supermarket,Groceries
+2023-07-11,21595.08,Hotel Booking,Travel
+2023-04-19,24286.19,Fuel,Transport
+2023-07-31,13032.29,Fuel,Transport
+2023-01-21,32946.65,Online Shopping,Shopping
+2023-05-02,46751.07,Movie Tickets,Entertainment
+2023-03-11,35437.48,Car Loan,Loans
+2023-08-10,28087.18,Concert,Entertainment
+2023-05-22,40271.08,Fuel,Transport
+2023-09-17,3994.6,Car Rental,Travel
+2023-11-06,41176.81,Monthly Rent Payment,Rent
+2023-05-23,38372.99,Car Loan,Loans
+2023-07-13,46733.01,Gym Membership,Health
+2023-11-29,46875.75,Car Loan,Loans
+2023-03-17,3304.38,Flight Ticket,Travel
+2023-05-02,12011.4,Personal Loan EMI,Loans
+2023-07-23,43629.84,Hotel Booking,Travel
+2023-02-01,45631.2,Personal Loan EMI,Loans
+2023-03-11,26521.45,Personal Loan EMI,Loans
+2023-06-18,3888.95,Concert,Entertainment
+2023-04-03,19371.62,Gym Membership,Health
+2023-07-25,14745.09,Fast Food,Food
+2023-10-08,28342.15,Pharmacy,Health
+2023-05-23,17321.67,Electronics,Shopping
+2023-08-15,46589.44,Online Shopping,Shopping
+2023-04-23,17739.13,Coffee Shop,Food
+2023-01-01,31128.52,Monthly Rent Payment,Rent
+2023-09-14,16550.72,Uber Ride,Transport
+2023-03-27,7013.73,Flight Ticket,Travel
+2023-01-23,23067.95,Coffee Shop,Food
+2023-06-25,39345.1,Water Bill,Utilities
+2023-08-04,7408.48,Credit Card EMI,Loans
+2023-08-10,11954.9,Hotel Booking,Travel
+2023-11-08,35378.79,Pharmacy,Health
+2023-08-28,11177.24,Flight Ticket,Travel
+2023-09-30,5791.07,Flight Ticket,Travel
+2023-02-13,44784.37,Supermarket,Groceries
+2023-08-09,34680.63,Restaurant,Food
+2023-12-26,47215.92,Electronics,Shopping
+2023-06-23,48398.32,Car Rental,Travel
+2023-06-30,47272.33,Credit Card EMI,Loans
+2023-01-02,1725.44,Gaming Subscription,Entertainment
+2023-11-08,37267.34,Gaming Subscription,Entertainment
+2023-09-15,46000.31,Train Ticket,Transport
+2023-01-24,989.41,Monthly Rent Payment,Rent
+2023-09-10,7661.37,Online Shopping,Shopping
+2023-01-06,48668.5,Monthly Rent Payment,Rent
+2023-04-10,20466.84,Pharmacy,Health
+2023-07-26,7472.8,Supermarket,Groceries
+2023-03-11,17426.58,Monthly Rent Payment,Rent
+2023-05-22,16843.21,Train Ticket,Transport
+2023-04-14,31477.59,Water Bill,Utilities
+2023-08-06,23897.96,Online Shopping,Shopping
+2023-10-06,38598.17,Gym Membership,Health
+2023-11-28,5802.01,Online Shopping,Shopping
+2023-08-31,4931.5,Movie Tickets,Entertainment
+2023-06-09,24304.27,Car Rental,Travel
+2023-06-11,33409.18,Restaurant,Food
+2023-01-02,10108.05,Electricity Bill,Utilities
+2023-09-02,48746.81,Monthly Rent Payment,Rent
+2023-04-27,29887.36,Supermarket,Groceries
+2023-02-11,4309.31,Supermarket,Groceries
+2023-08-15,1547.16,Gaming Subscription,Entertainment
+2023-04-29,5401.78,Pharmacy,Health
+2023-04-16,49414.97,Internet Bill,Utilities
+2023-05-18,23068.01,Internet Bill,Utilities
+2023-03-01,14195.84,Mall Purchase,Shopping
+2023-06-01,28946.71,Pharmacy,Health
+2023-03-05,9532.0,Car Rental,Travel
+2023-08-09,23203.36,Electronics,Shopping
+2023-11-16,20197.59,Fuel,Transport
+2023-08-27,2484.88,Fast Food,Food
+2023-05-11,43599.22,Fast Food,Food
+2023-03-25,39048.05,Monthly Rent Payment,Rent
+2023-10-05,2054.21,Personal Loan EMI,Loans
+2023-05-10,7102.29,Monthly Rent Payment,Rent
+2023-09-06,24972.04,Doctor Visit,Health
+2023-07-18,13190.65,Personal Loan EMI,Loans
+2023-01-10,25835.67,Water Bill,Utilities
+2023-12-19,14588.75,Car Loan,Loans
+2023-08-03,45417.03,Supermarket,Groceries
+2023-01-22,42008.99,Gym Membership,Health
+2023-12-26,19694.12,Fast Food,Food
+2023-02-01,40628.04,Pharmacy,Health
+2023-04-16,26863.02,Hotel Booking,Travel
+2023-09-11,3067.37,Car Rental,Travel
+2023-06-26,30142.77,Movie Tickets,Entertainment
+2023-08-24,42554.03,Concert,Entertainment
+2023-05-22,3427.53,Credit Card EMI,Loans
+2023-10-06,641.62,Water Bill,Utilities
+2023-05-06,27154.3,Hotel Booking,Travel
+2023-05-13,6595.19,Fast Food,Food
+2023-09-23,40075.04,Doctor Visit,Health
+2023-01-13,3633.36,Train Ticket,Transport
+2023-08-11,40125.66,Restaurant,Food
+2023-12-04,4444.75,Organic Market,Groceries
+2023-03-14,45162.71,Monthly Rent Payment,Rent
+2023-09-28,37966.7,Hotel Booking,Travel
+2023-02-11,5239.31,Car Rental,Travel
+2023-08-22,22433.16,Online Shopping,Shopping
+2023-11-28,33400.32,Online Shopping,Shopping
+2023-11-26,27461.97,Car Loan,Loans
+2023-01-30,13826.6,Online Shopping,Shopping
+2023-07-27,9955.16,Flight Ticket,Travel
+2023-08-01,20581.12,Water Bill,Utilities
+2023-10-17,18834.2,Coffee Shop,Food
+2023-12-15,46989.3,Uber Ride,Transport
+2023-01-20,44715.73,Credit Card EMI,Loans
+2023-10-07,41569.76,Car Rental,Travel
+2023-12-04,39657.95,Monthly Rent Payment,Rent
+2023-06-13,20352.74,Flight Ticket,Travel
+2023-10-01,21525.9,Online Shopping,Shopping
+2023-07-22,18172.71,Fuel,Transport
+2023-01-12,5703.39,Mall Purchase,Shopping
+2023-04-17,44994.48,Coffee Shop,Food
+2023-10-03,47130.09,Coffee Shop,Food
+2023-07-31,20860.63,Electronics,Shopping
+2023-08-24,19958.69,Concert,Entertainment
+2023-05-23,9815.5,Doctor Visit,Health
+2023-01-07,16935.62,Grocery Store,Groceries
+2023-02-06,31876.72,Uber Ride,Transport
+2023-02-01,17538.58,Coffee Shop,Food
+2023-03-19,18658.36,Monthly Rent Payment,Rent
+2023-03-18,47573.86,Grocery Store,Groceries
+2023-11-05,38784.91,Monthly Rent Payment,Rent
+2023-12-31,29385.65,Doctor Visit,Health
+2023-11-03,30463.97,Credit Card EMI,Loans
+2023-03-09,20922.68,Credit Card EMI,Loans
+2023-12-10,42417.55,Restaurant,Food
+2023-09-28,39854.2,Monthly Rent Payment,Rent
+2023-12-28,24223.89,Gaming Subscription,Entertainment
+2023-03-27,35999.92,Uber Ride,Transport
+2023-05-19,10217.01,Coffee Shop,Food
+2023-10-29,28391.48,Gym Membership,Health
+2023-09-28,32164.55,Flight Ticket,Travel
+2023-12-03,41091.35,Fast Food,Food
+2023-03-29,49287.95,Flight Ticket,Travel
+2023-11-21,8096.05,Supermarket,Groceries
+2023-01-12,41723.17,Mall Purchase,Shopping
+2023-03-24,5090.93,Monthly Rent Payment,Rent
+2023-03-20,29374.57,Electronics,Shopping
+2023-05-03,49302.16,Train Ticket,Transport
+2023-08-09,29441.46,Online Shopping,Shopping
+2023-03-06,16575.7,Flight Ticket,Travel
+2023-08-11,46948.67,Train Ticket,Transport
+2023-11-12,31271.07,Car Rental,Travel
+2023-06-02,6057.64,Fuel,Transport
+2023-10-11,1768.75,Water Bill,Utilities
+2023-06-15,30510.85,Car Rental,Travel
+2023-05-02,34656.18,Fast Food,Food
+2023-02-21,23716.1,Monthly Rent Payment,Rent
+2023-09-23,640.13,Monthly Rent Payment,Rent
+2023-10-22,39924.28,Fast Food,Food
+2023-02-12,37930.06,Water Bill,Utilities
+2023-02-07,2238.45,Hotel Booking,Travel
+2023-06-14,44046.96,Water Bill,Utilities
+2023-07-07,23035.41,Fast Food,Food
+2023-04-11,40441.92,Personal Loan EMI,Loans
+2023-09-04,24762.81,Pharmacy,Health
+2023-03-18,12969.9,Pharmacy,Health
+2023-03-01,43069.36,Fuel,Transport
+2023-04-14,28405.8,Monthly Rent Payment,Rent
+2023-08-28,37548.43,Gym Membership,Health
+2023-08-04,29889.61,Organic Market,Groceries
+2023-02-06,40504.0,Uber Ride,Transport
+2023-11-22,32587.31,Concert,Entertainment
+2023-06-18,23607.61,Pharmacy,Health
+2023-07-13,34346.15,Car Loan,Loans
+2023-08-08,45948.32,Mall Purchase,Shopping
+2023-07-02,48521.82,Gaming Subscription,Entertainment
+2023-07-11,47201.01,Organic Market,Groceries
+2023-11-09,11080.93,Hotel Booking,Travel
+2023-05-14,10043.9,Hotel Booking,Travel
+2023-12-30,2974.4,Coffee Shop,Food
+2023-04-21,49386.84,Coffee Shop,Food
+2023-09-25,45615.72,Car Rental,Travel
+2023-01-05,4729.85,Car Rental,Travel
+2023-10-27,10044.62,Fast Food,Food
+2023-06-17,41448.4,Personal Loan EMI,Loans
+2023-01-15,40520.76,Online Shopping,Shopping
+2023-07-07,30467.44,Electronics,Shopping
+2023-04-12,4157.45,Supermarket,Groceries
+2023-12-10,17819.01,Pharmacy,Health
+2023-10-22,49369.94,Supermarket,Groceries
+2023-07-30,38698.46,Personal Loan EMI,Loans
+2023-12-29,18028.63,Fuel,Transport
+2023-01-06,23255.42,Train Ticket,Transport
+2023-10-31,8597.9,Electronics,Shopping
+2023-08-01,45992.8,Restaurant,Food
+2023-06-24,7452.85,Monthly Rent Payment,Rent
+2023-08-06,23912.44,Grocery Store,Groceries
+2023-01-18,23762.62,Gym Membership,Health
+2023-06-23,13196.78,Monthly Rent Payment,Rent
+2023-07-03,2288.4,Personal Loan EMI,Loans
+2023-10-29,19687.63,Restaurant,Food
+2023-08-25,13374.26,Supermarket,Groceries
+2023-12-18,20269.89,Coffee Shop,Food
+2023-07-09,7871.67,Credit Card EMI,Loans
+2023-02-10,22664.84,Doctor Visit,Health
+2023-02-13,29036.22,Movie Tickets,Entertainment
+2023-12-04,37993.06,Pharmacy,Health
+2023-02-20,20892.06,Supermarket,Groceries
+2023-03-28,23444.01,Grocery Store,Groceries
+2023-06-18,24474.03,Monthly Rent Payment,Rent
+2023-09-13,34146.49,Movie Tickets,Entertainment
+2023-08-06,6727.04,Car Rental,Travel
+2023-03-15,35622.39,Movie Tickets,Entertainment
+2023-03-23,36827.17,Credit Card EMI,Loans
+2023-08-03,15489.05,Organic Market,Groceries
+2023-12-09,14115.03,Monthly Rent Payment,Rent
+2023-02-05,16001.99,Organic Market,Groceries
+2023-12-11,10878.47,Electronics,Shopping
+2023-06-13,1483.8,Electricity Bill,Utilities
+2023-09-28,38593.75,Hotel Booking,Travel
+2023-12-23,49730.24,Credit Card EMI,Loans
+2023-06-18,7850.6,Coffee Shop,Food
+2023-07-25,25678.07,Gym Membership,Health
+2023-05-16,26212.61,Grocery Store,Groceries
+2023-03-22,39673.27,Electricity Bill,Utilities
+2023-07-18,12788.92,Pharmacy,Health
+2023-11-07,18297.09,Concert,Entertainment
+2023-08-21,8828.18,Movie Tickets,Entertainment
+2023-01-29,17660.5,Water Bill,Utilities
+2023-07-11,9274.99,Supermarket,Groceries
+2023-11-22,21079.3,Gaming Subscription,Entertainment
+2023-02-28,42351.6,Electricity Bill,Utilities
+2023-05-06,28374.37,Restaurant,Food
+2023-12-14,47394.29,Online Shopping,Shopping
+2023-07-11,16651.25,Car Rental,Travel
+2023-04-24,33981.91,Car Loan,Loans
+2023-04-09,24162.63,Monthly Rent Payment,Rent
+2023-01-26,39213.6,Pharmacy,Health
+2023-06-10,23046.67,Monthly Rent Payment,Rent
+2023-03-18,20186.32,Concert,Entertainment
+2023-03-17,27671.43,Hotel Booking,Travel
+2023-05-08,32241.12,Gym Membership,Health
+2023-12-17,20514.31,Monthly Rent Payment,Rent
+2023-04-04,29000.5,Mall Purchase,Shopping
+2023-05-20,27855.89,Internet Bill,Utilities
+2023-06-12,40726.61,Uber Ride,Transport
+2023-09-01,2850.98,Hotel Booking,Travel
+2023-08-02,32895.83,Supermarket,Groceries
+2023-03-04,20862.31,Doctor Visit,Health
+2023-10-20,35851.6,Train Ticket,Transport
+2023-03-17,23936.28,Monthly Rent Payment,Rent
+2023-05-12,14095.91,Monthly Rent Payment,Rent
+2023-06-24,32941.74,Monthly Rent Payment,Rent
+2023-08-14,5533.43,Pharmacy,Health
+2023-01-02,9937.38,Train Ticket,Transport
+2023-10-10,13171.7,Water Bill,Utilities
+2023-06-15,12371.2,Flight Ticket,Travel
+2023-01-07,38108.83,Train Ticket,Transport
+2023-05-04,25462.17,Grocery Store,Groceries
+2023-09-03,18233.36,Fuel,Transport
+2023-06-10,48516.46,Personal Loan EMI,Loans
+2023-04-08,9011.08,Gym Membership,Health
+2023-10-10,11048.06,Personal Loan EMI,Loans
+2023-05-07,30801.77,Mall Purchase,Shopping
+2023-11-11,18701.25,Monthly Rent Payment,Rent
+2023-09-22,24392.41,Doctor Visit,Health
+2023-07-03,21178.54,Organic Market,Groceries
+2023-05-04,39044.67,Electricity Bill,Utilities
+2023-01-09,26180.83,Train Ticket,Transport
+2023-04-09,17620.66,Electricity Bill,Utilities
+2023-12-05,12237.31,Pharmacy,Health
+2023-02-11,29220.83,Mall Purchase,Shopping
+2023-10-24,41457.61,Internet Bill,Utilities
+2023-01-20,29203.42,Uber Ride,Transport
+2023-08-16,36505.25,Internet Bill,Utilities
+2023-03-02,24353.31,Coffee Shop,Food
+2023-10-23,40882.58,Car Rental,Travel
+2023-10-25,17654.74,Doctor Visit,Health
+2023-10-26,25444.47,Doctor Visit,Health
+2023-04-20,2041.38,Electronics,Shopping
+2023-07-21,3269.96,Internet Bill,Utilities
+2023-08-27,17122.97,Online Shopping,Shopping
+2023-07-18,37737.69,Car Rental,Travel
+2023-12-30,8531.46,Organic Market,Groceries
+2023-02-26,19962.01,Monthly Rent Payment,Rent
+2023-01-03,678.11,Online Shopping,Shopping
+2023-10-07,32671.71,Electricity Bill,Utilities
+2023-10-27,48555.6,Doctor Visit,Health
+2023-01-12,36286.13,Grocery Store,Groceries
+2023-03-23,48006.02,Gym Membership,Health
+2023-05-09,7928.95,Gym Membership,Health
+2023-12-10,39676.35,Uber Ride,Transport
+2023-09-27,26630.19,Monthly Rent Payment,Rent
+2023-07-03,29243.07,Train Ticket,Transport
+2023-04-19,1883.68,Hotel Booking,Travel
+2023-07-06,6342.41,Internet Bill,Utilities
+2023-03-17,6327.54,Fast Food,Food
+2023-12-20,35382.92,Personal Loan EMI,Loans
+2023-02-05,15108.36,Mall Purchase,Shopping
+2023-07-28,27391.4,Electricity Bill,Utilities
+2023-08-26,19773.88,Credit Card EMI,Loans
+2023-01-09,43342.02,Hotel Booking,Travel
+2023-11-04,7646.17,Water Bill,Utilities
+2023-12-29,5765.71,Fuel,Transport
+2023-05-02,31087.22,Movie Tickets,Entertainment
+2023-06-24,35916.79,Train Ticket,Transport
+2023-06-14,2996.26,Gaming Subscription,Entertainment
+2023-07-11,2181.43,Monthly Rent Payment,Rent
+2023-07-26,41898.57,Water Bill,Utilities
+2023-01-20,19245.23,Hotel Booking,Travel
+2023-10-04,28531.83,Monthly Rent Payment,Rent
+2023-11-24,25369.05,Credit Card EMI,Loans
+2023-04-08,20946.63,Grocery Store,Groceries
+2023-08-29,37200.58,Monthly Rent Payment,Rent
+2023-10-11,17515.0,Fuel,Transport
+2023-04-13,27968.51,Uber Ride,Transport
+2023-03-28,2977.0,Fast Food,Food
+2023-05-24,5283.25,Car Rental,Travel
+2023-11-28,18503.0,Flight Ticket,Travel
+2023-05-14,22971.33,Train Ticket,Transport
+2023-07-02,6514.19,Hotel Booking,Travel
+2023-03-03,37081.14,Flight Ticket,Travel
+2023-11-20,14174.68,Monthly Rent Payment,Rent
+2023-10-27,35883.54,Fast Food,Food
+2023-10-25,14718.92,Doctor Visit,Health
+2023-11-03,21485.85,Movie Tickets,Entertainment
+2023-08-04,19185.99,Supermarket,Groceries
+2023-01-04,34985.97,Coffee Shop,Food
+2023-07-08,45477.77,Grocery Store,Groceries
+2023-09-09,4804.64,Monthly Rent Payment,Rent
+2023-02-03,40015.0,Monthly Rent Payment,Rent
+2023-03-11,10593.42,Restaurant,Food
+2023-07-04,9329.65,Uber Ride,Transport
+2023-09-19,8013.79,Uber Ride,Transport
+2023-02-02,48404.44,Grocery Store,Groceries
+2023-10-10,11292.8,Credit Card EMI,Loans
+2023-09-30,21700.82,Flight Ticket,Travel
+2023-07-25,5682.6,Personal Loan EMI,Loans
+2023-01-17,27822.69,Monthly Rent Payment,Rent
+2023-09-18,45151.5,Grocery Store,Groceries
+2023-08-22,14163.98,Movie Tickets,Entertainment
+2023-01-18,33957.25,Online Shopping,Shopping
+2023-05-29,47674.58,Uber Ride,Transport
+2023-09-25,46776.84,Doctor Visit,Health
+2023-04-24,17829.26,Car Rental,Travel
+2023-10-15,8156.1,Coffee Shop,Food
+2023-08-16,43763.38,Hotel Booking,Travel
+2023-04-19,32314.51,Car Rental,Travel
+2023-08-11,45362.29,Internet Bill,Utilities
+2023-06-20,44625.39,Gaming Subscription,Entertainment
+2023-03-02,11401.83,Fast Food,Food
+2023-06-06,28231.55,Car Loan,Loans
+2023-03-24,47178.54,Fuel,Transport
+2023-08-29,31017.85,Gaming Subscription,Entertainment
+2023-03-19,49772.9,Internet Bill,Utilities
+2023-04-21,41310.33,Uber Ride,Transport
+2023-12-12,16780.25,Organic Market,Groceries
+2023-04-12,46183.94,Grocery Store,Groceries
+2023-09-12,26699.48,Online Shopping,Shopping
+2023-11-27,23336.04,Credit Card EMI,Loans
+2023-09-01,1245.47,Car Rental,Travel
+2023-10-07,14827.8,Monthly Rent Payment,Rent
+2023-04-14,10778.6,Gaming Subscription,Entertainment
+2023-08-25,42205.04,Organic Market,Groceries
+2023-02-06,24912.08,Organic Market,Groceries
+2023-03-14,14790.41,Coffee Shop,Food
+2023-08-28,3855.42,Coffee Shop,Food
+2023-01-03,31416.33,Coffee Shop,Food
+2023-01-25,6656.65,Fast Food,Food
+2023-12-04,21765.93,Concert,Entertainment
+2023-02-16,36016.91,Gym Membership,Health
+2023-07-28,19808.21,Water Bill,Utilities
+2023-03-10,18652.25,Electricity Bill,Utilities
+2023-09-14,5567.66,Movie Tickets,Entertainment
+2023-04-29,13391.28,Monthly Rent Payment,Rent
+2023-01-06,11539.83,Electricity Bill,Utilities
+2023-09-25,31880.54,Monthly Rent Payment,Rent
+2023-10-18,32678.17,Coffee Shop,Food
+2023-08-12,27787.3,Uber Ride,Transport
+2023-09-10,14734.65,Car Rental,Travel
+2023-09-30,7386.11,Restaurant,Food
+2023-03-24,22963.64,Grocery Store,Groceries
+2023-07-12,5541.85,Monthly Rent Payment,Rent
+2023-09-05,26030.47,Water Bill,Utilities
+2023-08-27,21555.04,Electronics,Shopping
+2023-09-22,36153.08,Gym Membership,Health
+2023-03-16,11477.75,Monthly Rent Payment,Rent
+2023-07-09,40375.63,Hotel Booking,Travel
+2023-06-05,20791.89,Supermarket,Groceries
+2023-12-24,32906.12,Water Bill,Utilities
+2023-07-02,44342.17,Online Shopping,Shopping
+2023-08-11,17025.56,Organic Market,Groceries
+2023-08-28,46369.57,Mall Purchase,Shopping
+2023-10-07,6014.39,Doctor Visit,Health
+2023-05-19,38119.98,Gaming Subscription,Entertainment
+2023-09-28,33105.2,Hotel Booking,Travel
+2023-02-07,9062.01,Car Rental,Travel
+2023-12-01,16233.59,Supermarket,Groceries
+2023-10-23,25129.29,Train Ticket,Transport
+2023-07-02,16496.73,Online Shopping,Shopping
+2023-02-06,9594.66,Coffee Shop,Food
+2023-03-09,26077.25,Electronics,Shopping
+2023-02-05,10959.77,Uber Ride,Transport
+2023-05-12,43059.52,Electronics,Shopping
+2023-10-19,19367.85,Fuel,Transport
+2023-01-29,3726.72,Restaurant,Food
+2023-01-04,12740.19,Car Loan,Loans
+2023-06-20,17854.62,Organic Market,Groceries
+2023-05-21,43350.39,Concert,Entertainment
+2023-12-07,41655.19,Credit Card EMI,Loans
+2023-02-17,22768.14,Grocery Store,Groceries
+2023-10-12,49262.77,Electricity Bill,Utilities
+2023-02-19,47211.06,Online Shopping,Shopping
+2023-01-04,29063.04,Water Bill,Utilities
+2023-07-08,19852.19,Uber Ride,Transport
+2023-04-01,21030.81,Monthly Rent Payment,Rent
+2023-04-06,5360.15,Grocery Store,Groceries
+2023-11-01,39051.01,Electronics,Shopping
+2023-09-29,33859.96,Gym Membership,Health
+2023-09-05,22925.93,Concert,Entertainment
+2023-10-31,27973.47,Credit Card EMI,Loans
+2023-01-22,9968.69,Mall Purchase,Shopping
+2023-11-10,45455.35,Coffee Shop,Food
+2023-05-31,20015.65,Movie Tickets,Entertainment
+2023-05-02,22488.12,Concert,Entertainment
+2023-05-18,24183.16,Fuel,Transport
+2023-11-29,39123.84,Uber Ride,Transport
+2023-06-12,19946.25,Grocery Store,Groceries
+2023-08-09,11128.15,Pharmacy,Health
+2023-01-24,39018.79,Personal Loan EMI,Loans
+2023-12-20,9279.41,Car Rental,Travel
+2023-09-01,30857.52,Fuel,Transport
+2023-02-13,34878.42,Doctor Visit,Health
+2023-04-13,20932.39,Pharmacy,Health
+2023-10-23,17490.8,Car Rental,Travel
+2023-08-28,49026.32,Gaming Subscription,Entertainment
+2023-10-27,49949.18,Credit Card EMI,Loans
+2023-03-04,42444.9,Hotel Booking,Travel
+2023-04-15,33983.89,Monthly Rent Payment,Rent
+2023-08-27,22804.83,Grocery Store,Groceries
+2023-07-26,30250.76,Gaming Subscription,Entertainment
+2023-03-18,33549.72,Car Rental,Travel
+2023-08-03,10191.34,Online Shopping,Shopping
+2023-01-18,24776.42,Gaming Subscription,Entertainment
+2023-07-12,2161.7,Internet Bill,Utilities
+2023-05-07,32883.78,Gaming Subscription,Entertainment
+2023-02-16,48410.3,Concert,Entertainment
+2023-05-25,42609.91,Electronics,Shopping
+2023-02-01,36633.18,Monthly Rent Payment,Rent
+2023-06-27,10426.74,Fast Food,Food
+2023-07-27,12345.01,Doctor Visit,Health
+2023-12-25,18364.73,Gym Membership,Health
+2023-11-03,34690.57,Gaming Subscription,Entertainment
+2023-07-25,2193.67,Electricity Bill,Utilities
+2023-12-28,3846.69,Grocery Store,Groceries
+2023-10-01,31365.05,Car Loan,Loans
+2023-05-05,46499.04,Personal Loan EMI,Loans
+2023-03-06,37756.91,Personal Loan EMI,Loans
+2023-07-23,28260.31,Gym Membership,Health
+2023-02-12,15444.3,Uber Ride,Transport
+2023-12-01,9589.39,Online Shopping,Shopping
+2023-01-14,5515.53,Gym Membership,Health
+2023-09-30,32523.59,Organic Market,Groceries
+2023-08-05,21267.95,Personal Loan EMI,Loans
+2023-09-23,3226.15,Monthly Rent Payment,Rent
+2023-12-01,9915.3,Monthly Rent Payment,Rent
+2023-11-12,34628.75,Flight Ticket,Travel
+2023-05-07,23376.89,Pharmacy,Health
+2023-03-04,40254.17,Supermarket,Groceries
+2023-12-25,31498.68,Pharmacy,Health
+2023-04-29,39298.77,Grocery Store,Groceries
+2023-05-04,7896.5,Doctor Visit,Health
+2023-10-14,36287.78,Monthly Rent Payment,Rent
+2023-07-08,35726.71,Electricity Bill,Utilities
+2023-05-01,37059.85,Electronics,Shopping
+2023-10-12,32223.84,Fast Food,Food
+2023-10-24,25149.09,Car Rental,Travel
+2023-02-04,857.2,Car Rental,Travel
+2023-05-23,37390.21,Online Shopping,Shopping
+2023-01-26,12899.78,Coffee Shop,Food
+2023-03-09,35038.61,Credit Card EMI,Loans
+2023-09-08,7475.73,Monthly Rent Payment,Rent
+2023-02-28,35641.38,Monthly Rent Payment,Rent
+2023-07-18,43302.21,Monthly Rent Payment,Rent
+2023-09-25,42959.48,Personal Loan EMI,Loans
+2023-12-13,30270.53,Car Loan,Loans
+2023-10-14,23240.51,Uber Ride,Transport
+2023-07-31,14708.25,Movie Tickets,Entertainment
+2023-11-12,15928.88,Monthly Rent Payment,Rent
+2023-01-29,37824.18,Flight Ticket,Travel
+2023-10-01,40883.64,Fast Food,Food
+2023-08-04,22780.18,Supermarket,Groceries
+2023-08-01,43406.7,Monthly Rent Payment,Rent
+2023-07-16,7280.77,Car Loan,Loans
+2023-05-20,38211.92,Coffee Shop,Food
+2023-08-03,19282.94,Gaming Subscription,Entertainment
+2023-03-16,47419.7,Concert,Entertainment
+2023-10-05,42738.73,Movie Tickets,Entertainment
+2023-08-28,15634.63,Monthly Rent Payment,Rent
+2023-01-29,4276.96,Uber Ride,Transport
+2023-06-13,45562.25,Doctor Visit,Health
+2023-12-12,16691.48,Organic Market,Groceries
+2023-08-25,25088.52,Fast Food,Food
+2023-04-29,16927.58,Mall Purchase,Shopping
+2023-06-01,27203.99,Restaurant,Food
+2023-05-05,37411.53,Doctor Visit,Health
+2023-09-19,20303.49,Personal Loan EMI,Loans
+2023-01-25,42102.42,Uber Ride,Transport
+2023-01-04,5179.12,Mall Purchase,Shopping
+2023-10-10,24581.82,Organic Market,Groceries
+2023-07-05,41195.07,Grocery Store,Groceries
+2023-08-25,17774.16,Train Ticket,Transport
+2023-04-23,29039.12,Car Rental,Travel
+2023-08-25,3346.09,Personal Loan EMI,Loans
+2023-02-17,4730.86,Credit Card EMI,Loans
+2023-12-24,1454.22,Flight Ticket,Travel
+2023-09-21,21786.76,Monthly Rent Payment,Rent
+2023-01-11,20239.56,Car Loan,Loans
+2023-04-09,16890.45,Train Ticket,Transport
+2023-05-05,12268.14,Uber Ride,Transport
+2023-01-08,30062.13,Hotel Booking,Travel
+2023-11-19,45314.24,Water Bill,Utilities
+2023-10-20,10785.5,Grocery Store,Groceries
+2023-12-20,3022.19,Train Ticket,Transport
+2023-04-08,25255.96,Gaming Subscription,Entertainment
+2023-11-27,40229.45,Pharmacy,Health
+2023-08-06,28635.7,Gym Membership,Health
+2023-11-14,40214.39,Pharmacy,Health
+2023-01-01,23969.64,Electricity Bill,Utilities
+2023-03-08,12007.74,Uber Ride,Transport
+2023-01-30,46892.76,Train Ticket,Transport
+2023-02-06,41530.89,Personal Loan EMI,Loans
+2023-10-07,47338.61,Credit Card EMI,Loans
+2023-09-23,19301.19,Concert,Entertainment
+2023-03-13,34887.2,Monthly Rent Payment,Rent
+2023-03-13,45983.72,Monthly Rent Payment,Rent
+2023-03-25,23573.13,Supermarket,Groceries
+2023-03-19,26808.93,Train Ticket,Transport
+2023-12-08,12627.52,Electronics,Shopping
+2023-04-02,37651.53,Pharmacy,Health
+2023-01-04,3380.49,Monthly Rent Payment,Rent
+2023-03-03,45059.59,Monthly Rent Payment,Rent
+2023-11-05,38640.88,Pharmacy,Health
+2023-03-25,39961.39,Online Shopping,Shopping
+2023-03-11,49568.57,Monthly Rent Payment,Rent
+2023-05-29,6758.56,Car Loan,Loans
+2023-03-29,31277.79,Coffee Shop,Food
+2023-07-01,46233.55,Car Loan,Loans
+2023-10-05,828.11,Fast Food,Food
+2023-06-19,22761.06,Electronics,Shopping
+2023-04-26,36758.91,Internet Bill,Utilities
+2023-12-25,26808.23,Personal Loan EMI,Loans
+2023-01-30,19469.51,Uber Ride,Transport
+2023-09-06,4245.0,Monthly Rent Payment,Rent
+2023-03-18,35605.97,Internet Bill,Utilities
+2023-07-31,16085.3,Electricity Bill,Utilities
+2023-02-23,32673.39,Gym Membership,Health
+2023-12-09,17894.94,Internet Bill,Utilities
+2023-08-01,28813.71,Mall Purchase,Shopping
+2023-07-15,35517.97,Water Bill,Utilities
+2023-08-06,10518.78,Fuel,Transport
+2023-04-23,32091.24,Car Rental,Travel
+2023-09-13,6048.37,Car Loan,Loans
+2023-11-06,15593.88,Gaming Subscription,Entertainment
+2023-04-06,34731.78,Train Ticket,Transport
+2023-09-12,15952.65,Electricity Bill,Utilities
+2023-02-05,31256.19,Supermarket,Groceries
+2023-02-24,38850.91,Coffee Shop,Food
+2023-11-23,20044.04,Uber Ride,Transport
+2023-04-13,27378.57,Internet Bill,Utilities
+2023-07-07,7458.75,Monthly Rent Payment,Rent
+2023-06-05,26669.3,Movie Tickets,Entertainment
+2023-10-06,13053.5,Online Shopping,Shopping
+2023-11-11,5608.07,Water Bill,Utilities
+2023-11-23,8072.34,Restaurant,Food
+2023-09-11,27096.27,Grocery Store,Groceries
+2023-06-09,30314.7,Doctor Visit,Health
+2023-11-29,9859.75,Fast Food,Food
+2023-12-15,44913.32,Electricity Bill,Utilities
+2023-12-03,21091.53,Fuel,Transport
+2023-05-29,1226.85,Grocery Store,Groceries
+2023-01-01,7319.3,Personal Loan EMI,Loans
+2023-04-11,43889.25,Gym Membership,Health
+2023-07-06,48490.97,Movie Tickets,Entertainment
+2023-10-30,49998.66,Monthly Rent Payment,Rent
+2023-01-14,44513.45,Doctor Visit,Health
+2023-01-17,40664.18,Restaurant,Food
+2023-10-29,16300.17,Electronics,Shopping
+2023-04-02,31250.68,Organic Market,Groceries
+2023-07-11,44735.5,Pharmacy,Health
+2023-12-06,40670.68,Internet Bill,Utilities
+2023-11-05,32360.12,Movie Tickets,Entertainment
+2023-06-28,22432.64,Train Ticket,Transport
+2023-03-02,49785.84,Car Loan,Loans
+2023-06-21,10244.0,Car Loan,Loans
+2023-06-04,21647.09,Flight Ticket,Travel
+2023-07-11,42791.48,Personal Loan EMI,Loans
+2023-03-05,49825.05,Monthly Rent Payment,Rent
+2023-03-18,14744.9,Electricity Bill,Utilities
+2023-11-05,39262.69,Monthly Rent Payment,Rent
+2023-03-09,48447.91,Train Ticket,Transport
+2023-12-18,44438.46,Organic Market,Groceries
+2023-02-26,30006.07,Credit Card EMI,Loans
+2023-08-01,44315.66,Online Shopping,Shopping
+2023-03-27,35533.54,Organic Market,Groceries
+2023-07-15,47932.55,Organic Market,Groceries
+2023-10-29,11639.4,Uber Ride,Transport
+2023-03-06,10194.47,Gym Membership,Health
+2023-04-16,23205.92,Uber Ride,Transport
+2023-08-06,48871.67,Uber Ride,Transport
+2023-10-19,18356.36,Grocery Store,Groceries
+2023-01-16,30755.17,Electronics,Shopping
+2023-08-09,4714.2,Organic Market,Groceries
+2023-01-08,2906.11,Credit Card EMI,Loans
+2023-06-10,11209.12,Mall Purchase,Shopping
+2023-04-15,4635.53,Internet Bill,Utilities
+2023-11-27,11401.48,Supermarket,Groceries
+2023-09-16,37163.31,Electronics,Shopping
+2023-04-02,20403.62,Movie Tickets,Entertainment
+2023-04-30,46774.38,Concert,Entertainment
+2023-08-08,29508.7,Movie Tickets,Entertainment
+2023-12-05,17422.28,Electronics,Shopping
+2023-10-26,36272.16,Car Rental,Travel
+2023-01-14,23841.65,Monthly Rent Payment,Rent
+2023-03-28,35671.66,Supermarket,Groceries
+2023-04-21,32328.1,Monthly Rent Payment,Rent
+2023-03-29,1709.15,Train Ticket,Transport
+2023-03-18,42336.43,Car Loan,Loans
+2023-03-27,31359.92,Grocery Store,Groceries
+2023-07-14,25940.03,Water Bill,Utilities
+2023-06-18,20840.8,Train Ticket,Transport
+2023-01-31,45806.73,Pharmacy,Health
+2023-10-23,10393.12,Credit Card EMI,Loans
+2023-12-11,6587.22,Supermarket,Groceries
+2023-11-25,36275.82,Organic Market,Groceries
+2023-01-09,14208.52,Car Loan,Loans
+2023-12-16,19080.83,Coffee Shop,Food
+2023-09-10,38193.56,Mall Purchase,Shopping
+2023-09-26,31573.07,Restaurant,Food
+2023-07-06,40127.18,Gaming Subscription,Entertainment
+2023-02-16,4819.93,Monthly Rent Payment,Rent
+2023-05-01,13322.29,Hotel Booking,Travel
+2023-09-17,29202.76,Flight Ticket,Travel
+2023-03-31,37819.43,Monthly Rent Payment,Rent
+2023-09-07,46663.7,Restaurant,Food
+2023-12-15,29788.13,Concert,Entertainment
+2023-03-26,29439.84,Flight Ticket,Travel
+2023-01-29,5999.44,Online Shopping,Shopping
+2023-10-13,12770.37,Train Ticket,Transport
+2023-09-15,4348.29,Monthly Rent Payment,Rent
+2023-03-20,39861.68,Concert,Entertainment
+2023-12-28,14915.16,Supermarket,Groceries
+2023-01-08,40627.36,Fast Food,Food
+2023-07-29,49886.17,Doctor Visit,Health
+2023-07-26,6467.83,Monthly Rent Payment,Rent
+2023-10-28,46262.24,Monthly Rent Payment,Rent
+2023-02-15,25161.34,Monthly Rent Payment,Rent
+2023-10-21,3605.61,Coffee Shop,Food
+2023-09-04,25352.37,Monthly Rent Payment,Rent
+2023-08-19,38687.34,Monthly Rent Payment,Rent
+2023-05-08,14977.91,Monthly Rent Payment,Rent
+2023-11-10,32272.2,Electricity Bill,Utilities
+2023-12-07,30259.48,Electricity Bill,Utilities
+2023-01-14,45634.73,Flight Ticket,Travel
+2023-08-08,45468.54,Restaurant,Food
+2023-07-15,32796.52,Supermarket,Groceries
+2023-09-02,40708.3,Organic Market,Groceries
+2023-09-21,11606.16,Monthly Rent Payment,Rent
+2023-10-29,26365.42,Credit Card EMI,Loans
+2023-09-25,44251.04,Restaurant,Food
+2023-02-04,11696.69,Grocery Store,Groceries
+2023-02-22,13581.17,Car Loan,Loans
+2023-04-29,33524.83,Monthly Rent Payment,Rent
+2023-07-09,48851.31,Gaming Subscription,Entertainment
+2023-11-21,1418.76,Monthly Rent Payment,Rent
+2023-09-28,44639.25,Fuel,Transport
+2023-06-15,39676.48,Credit Card EMI,Loans
+2023-09-28,8683.85,Water Bill,Utilities
+2023-08-03,30432.19,Gaming Subscription,Entertainment
+2023-08-28,11195.18,Monthly Rent Payment,Rent
+2023-06-26,36229.98,Monthly Rent Payment,Rent
+2023-05-27,18887.31,Flight Ticket,Travel
+2023-01-05,47686.15,Mall Purchase,Shopping
+2023-10-28,4306.76,Coffee Shop,Food
+2023-08-06,32298.87,Car Loan,Loans
+2023-12-09,13484.37,Coffee Shop,Food
+2023-05-29,44177.33,Movie Tickets,Entertainment
+2023-07-17,43328.45,Organic Market,Groceries
+2023-10-19,20419.14,Hotel Booking,Travel
+2023-02-25,23317.05,Monthly Rent Payment,Rent
+2023-09-06,42658.69,Train Ticket,Transport
+2023-03-23,18463.52,Pharmacy,Health
+2023-04-20,49849.15,Internet Bill,Utilities
+2023-07-15,14607.92,Concert,Entertainment
+2023-12-20,17792.7,Fast Food,Food
+2023-03-28,35250.69,Organic Market,Groceries
+2023-05-29,43038.46,Concert,Entertainment
+2023-01-02,38897.72,Fast Food,Food
+2023-09-30,39862.13,Monthly Rent Payment,Rent
+2023-08-18,7386.05,Electricity Bill,Utilities
+2023-12-06,22095.33,Gym Membership,Health
+2023-11-08,16868.09,Supermarket,Groceries
+2023-02-23,30318.96,Train Ticket,Transport
+2023-11-29,6469.86,Internet Bill,Utilities
+2023-11-23,31293.44,Flight Ticket,Travel
+2023-09-23,29072.63,Train Ticket,Transport
+2023-01-25,42939.81,Credit Card EMI,Loans
+2023-09-22,37126.23,Electricity Bill,Utilities
+2023-04-24,38176.39,Hotel Booking,Travel
+2023-07-11,24864.51,Gym Membership,Health
+2023-05-19,3065.95,Water Bill,Utilities
+2023-01-08,48442.93,Fast Food,Food
+2023-11-17,46198.43,Organic Market,Groceries
+2023-12-06,2027.6,Restaurant,Food
+2023-09-15,13961.29,Credit Card EMI,Loans
+2023-10-15,8724.9,Pharmacy,Health
+2023-08-05,1240.64,Monthly Rent Payment,Rent
+2023-07-05,31008.98,Supermarket,Groceries
+2023-07-28,34837.75,Monthly Rent Payment,Rent
+2023-02-13,20136.46,Doctor Visit,Health
+2023-12-09,2416.68,Restaurant,Food
+2023-06-26,45154.48,Monthly Rent Payment,Rent
+2023-10-28,42043.88,Monthly Rent Payment,Rent
+2023-07-18,48668.39,Personal Loan EMI,Loans
+2023-10-22,35774.28,Uber Ride,Transport
+2023-02-20,43728.97,Concert,Entertainment
+2023-12-11,23094.67,Electricity Bill,Utilities
+2023-12-10,48748.53,Monthly Rent Payment,Rent
+2023-04-30,34797.25,Uber Ride,Transport
+2023-05-14,35120.07,Credit Card EMI,Loans
+2023-10-22,21535.85,Organic Market,Groceries
+2023-02-10,36079.37,Organic Market,Groceries
+2023-08-31,30102.78,Flight Ticket,Travel
+2023-04-10,38341.74,Monthly Rent Payment,Rent
+2023-04-26,1449.2,Mall Purchase,Shopping
+2023-10-04,37021.21,Monthly Rent Payment,Rent
+2023-10-26,13126.01,Movie Tickets,Entertainment
+2023-01-04,27316.23,Monthly Rent Payment,Rent
+2023-12-16,13761.94,Monthly Rent Payment,Rent
+2023-07-05,16252.66,Organic Market,Groceries
+2023-11-23,25501.92,Flight Ticket,Travel
+2023-05-18,43999.99,Internet Bill,Utilities
+2023-09-01,32573.36,Organic Market,Groceries
+2023-10-11,13238.88,Pharmacy,Health
+2023-08-31,41570.15,Internet Bill,Utilities
+2023-07-03,14693.36,Fuel,Transport
+2023-05-20,27876.86,Movie Tickets,Entertainment
+2023-03-27,13840.88,Pharmacy,Health
+2023-03-10,29103.71,Concert,Entertainment
+2023-08-03,49387.98,Water Bill,Utilities
+2023-09-06,19875.23,Concert,Entertainment
+2023-04-30,47231.49,Fast Food,Food
+2023-11-19,48425.31,Water Bill,Utilities
+2023-07-26,8795.21,Car Rental,Travel
+2023-11-18,41595.31,Movie Tickets,Entertainment
+2023-08-26,32544.65,Car Loan,Loans
+2023-02-23,38351.5,Coffee Shop,Food
+2023-10-20,27811.04,Restaurant,Food
+2023-09-10,38013.29,Gym Membership,Health
+2023-08-20,13064.02,Monthly Rent Payment,Rent
+2023-10-31,8524.81,Flight Ticket,Travel
+2023-08-10,12275.55,Hotel Booking,Travel
+2023-08-11,46843.93,Water Bill,Utilities
+2023-08-11,28471.48,Electricity Bill,Utilities
+2023-12-02,35242.58,Coffee Shop,Food
+2023-04-23,47673.95,Electronics,Shopping
+2023-04-20,44398.14,Uber Ride,Transport
+2023-01-01,10372.09,Uber Ride,Transport
+2023-01-20,27879.5,Fast Food,Food
+2023-02-04,37186.33,Uber Ride,Transport
+2023-08-17,24371.16,Monthly Rent Payment,Rent
+2023-05-16,32241.09,Pharmacy,Health
+2023-11-06,1231.65,Electricity Bill,Utilities
+2023-01-09,29618.89,Electricity Bill,Utilities
+2023-11-26,45115.17,Train Ticket,Transport
+2023-12-23,13001.13,Hotel Booking,Travel
+2023-09-08,27719.42,Online Shopping,Shopping
+2023-03-13,39070.0,Concert,Entertainment
+2023-07-03,46454.45,Monthly Rent Payment,Rent
+2023-11-22,28296.3,Monthly Rent Payment,Rent
+2023-11-09,3898.58,Gaming Subscription,Entertainment
+2023-10-10,23434.75,Fuel,Transport
+2023-01-01,27563.75,Credit Card EMI,Loans
+2023-07-09,7182.4,Mall Purchase,Shopping
+2023-01-26,46973.5,Train Ticket,Transport
+2023-03-28,5013.67,Water Bill,Utilities
+2023-08-23,38547.35,Movie Tickets,Entertainment
+2023-06-10,38191.27,Water Bill,Utilities
+2023-06-03,23835.69,Monthly Rent Payment,Rent
+2023-07-14,33126.26,Pharmacy,Health
+2023-01-07,8938.65,Car Rental,Travel
+2023-12-21,32152.67,Movie Tickets,Entertainment
+2023-08-01,28346.61,Monthly Rent Payment,Rent
+2023-02-01,14053.11,Restaurant,Food
+2023-03-01,4817.86,Supermarket,Groceries
+2023-07-11,16578.03,Movie Tickets,Entertainment
+2023-05-08,35117.73,Organic Market,Groceries
+2023-01-01,49417.99,Monthly Rent Payment,Rent
+2023-08-29,17420.75,Credit Card EMI,Loans
+2023-07-04,11433.3,Electricity Bill,Utilities
+2023-09-14,30035.37,Car Loan,Loans
+2023-11-12,34438.24,Personal Loan EMI,Loans
+2023-11-20,29053.92,Organic Market,Groceries
+2023-06-10,22814.83,Pharmacy,Health
+2023-02-18,32122.25,Mall Purchase,Shopping
+2023-09-30,6098.13,Electricity Bill,Utilities
